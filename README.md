@@ -1,3 +1,4 @@
+
 All the plots are saved in /results folder. While running the files, exit any of the plots by pressing the 'q' key
 ## Problem 2
 ### Save data from videos
@@ -9,22 +10,28 @@ This will save data points in a txt file in the /results folder
 
     python3 2_LS_plot_curve.py
 This will plot the Least square graphs, press 'q' key to close the window to get to the next plot.
-<img  alt="2_LS_1"  src="results/LS_Ball_travel_10fps.png"  width="40%" /> <img  alt="2_LS_2"  src="results/LS_Ball_travel_2_updated.png"  width="40%" /> 
+<img  alt="2_LS_1"  src="results/LS_Ball_travel_10fps.png"  width="45%" /> <img  alt="2_LS_2"  src="results/LS_Ball_travel_2_updated.png"  width="45%" /> 
 ## Problem 2
 ### 1.  Calculate the covarience matrix and plot the eigen vectors on the data
-
     python3 3_eigen.py
-   Press 'q' to exit the plot
+
+   <img  alt="eigen"  src="results/3_Eigen.png"  width="60%" /> 
+   
 ### 2. Plot Least Square curve fitting graphs
 
     python3 3_LS.py
+   <img  alt="3_LS"  src="results/3_LS.png"  width="60%" /> 
    
 ### 3. Plot curve using Total Least Square method
 
     python3 3_TLS.py
+   <img  alt="3_TLS"  src="results/3_TLS.png"  width="60%" /> 
+   
 ###  4. Plot curve using RANSAC method
 
     python3 3_RANSAC.py
+   <img  alt="3_RANSAC"  src="results/3_RANSAC.png"  width="60%" /> 
+   
 ## Problem 4
 Get the homography matrix
 
