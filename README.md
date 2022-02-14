@@ -9,8 +9,7 @@ This will save data points in a txt file in the /results folder
 
     python3 2_LS_plot_curve.py
 This will plot the Least square graphs, press 'q' key to close the window to get to the next plot.
-<img  alt="2_LS_1"  src="results/LS_Ball_travel_10fps.png"  width="50%" /> 
-<img  alt="2_LS_2"  src="results/LS_Ball_travel_2_updated.png"  width="50%" /> 
+<img  alt="2_LS_1"  src="results/LS_Ball_travel_10fps.png"  width="50%" /> <img  alt="2_LS_2"  src="results/LS_Ball_travel_2_updated.png"  width="50%" /> 
 ## Problem 2
 ### 1.  Calculate the covarience matrix and plot the eigen vectors on the data
 
